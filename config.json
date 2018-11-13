@@ -1,0 +1,8 @@
+{
+  "download_dir": ".",
+  "port": "3000",
+  "os_username": "scarullo",
+  "os_password": "34389710abca",
+  "os_langs": ["spa", "eng"],
+  "subdb_langs": ["en", "es"]
+}
